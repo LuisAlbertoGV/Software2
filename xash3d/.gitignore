@@ -1,0 +1,12 @@
+libs
+obj
+bin
+gen
+
+local.properties
+
+*.apk
+
+assets/extras.pak
+
+res/values/git-rev.xml
